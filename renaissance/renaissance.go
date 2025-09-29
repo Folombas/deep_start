@@ -1,7 +1,10 @@
 package renaissance
 
+import "fmt"
+
 func main() {
-	println("Мои мокрые курьерские кроссовки высохнут у камина айти-знаний")
+	fmt.Println("Мои мокрые курьерские кроссовки высохнут у камина айти-знаний")
+ fmt.Printl("Hello from Android 10")
 
 	
 }
