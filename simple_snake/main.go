@@ -8,7 +8,7 @@ import (
 
 func main() {
 	ebiten.SetWindowSize(screenWidth, screenHeight)
-	ebiten.SetWindowTitle("Усовершенствованная Змейка на Go")
+	ebiten.SetWindowTitle("Игра Змейка на Go")
 	
 	// Инициализация аудио
 	initAudio()
